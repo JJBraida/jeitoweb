@@ -9,7 +9,7 @@ require 'sinatra/flash'
 <<<<<<< HEAD
 
 =======
-require 'gosu'
+ #require 'gosu'
 >>>>>>> 32f3197a21ec1fe97d10b0724b28e63eb1eef858
 
 enable :sessions
