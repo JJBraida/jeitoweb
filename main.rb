@@ -6,7 +6,7 @@ require 'digest/md5'
 require_relative 'pony_gmail'
 require 'dropbox-api'
 require 'sinatra/flash'
-require 'gosu'
+
 
 enable :sessions
 
